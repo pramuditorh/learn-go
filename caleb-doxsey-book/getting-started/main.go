@@ -9,7 +9,7 @@ func main() {
 // This is comment
 
 /*
-This is 
+This is
 Multi-Line
 Comment
 */
