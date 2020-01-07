@@ -13,7 +13,7 @@ Go comes with several built-in data types.
 
         Go has **two floating-point types**: `float32` and `float64` (also often referred to as single precision and double precision, respectively). It also has two additional types for representing complex numbers (numbers with imaginary parts): `complex64` and `complex128`. Generally, we should stick with float64 when working with floating-point numbers.
 
-    Go supports the following standard arithmetic operators:
+    Go supports the following standard arithmetic operators: <br>
         +&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Addition <br>
         -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Subtraction <br>
         *&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Multiplication <br>
