@@ -14,11 +14,11 @@ Go comes with several built-in data types.
         Go has **two floating-point types**: `float32` and `float64` (also often referred to as single precision and double precision, respectively). It also has two additional types for representing complex numbers (numbers with imaginary parts): `complex64` and `complex128`. Generally, we should stick with float64 when working with floating-point numbers.
 
     Go supports the following standard arithmetic operators:
-        +   Addition <br>
-        -   Subtraction <br>
-        *   Multiplication <br>
-        /   Division <br>
-        %   Remainder
+        +&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Addition <br>
+        -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Subtraction <br>
+        *&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Multiplication <br>
+        /&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Division <br>
+        %&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Remainder
 
 - ### Strings
 
@@ -26,6 +26,6 @@ Go comes with several built-in data types.
 
 - ### Booleans
 
-    &&   and
-    ||   or
-    !    not
+    &&&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and <br>
+    ||&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;or <br>
+    !&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;not <br>
