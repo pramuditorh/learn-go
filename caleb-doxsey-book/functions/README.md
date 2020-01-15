@@ -164,4 +164,4 @@ In Go, a pointer is represented using an asterisk (*) followed by the type of th
 
 An asterisk is also used to dereference pointer variables. Dereferencing a pointer gives us access to the value the pointer points to.
 
-We use the & operator to find the address of a variable. &x returns a *int (pointer to an int) because x is an int. This is what allows us to modify the original variable. 
+We use the `&` operator to find the address of a variable. `&x` returns a `*int` (pointer to an int) because `x` is an `int`. This is what allows us to modify the original variable. 
