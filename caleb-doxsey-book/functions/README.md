@@ -160,7 +160,7 @@ func main() {
 }
 ```
 
-In Go, a pointer is represented using an asterisk (*) followed by the type of the stored value. In the zero function, xPtr is a pointer to an int.
+In Go, a pointer is represented using an asterisk (`*`) followed by the type of the stored value. In the zero function, `xPtr` is a pointer to an int.
 
 An asterisk is also used to dereference pointer variables. Dereferencing a pointer gives us access to the value the pointer points to.
 
