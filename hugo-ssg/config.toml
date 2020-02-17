@@ -1,0 +1,61 @@
+baseurl = "http://www.example.com"
+title = "Jeda Ngoprek"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+canonifyurls = true
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+disqusShortname = "yourdiscussshortname"
+
+[params]
+    author = "Robby Hemawan Pramudito"
+    info = "Full Stack DevOps and Magician"
+    description = "Testing Hugo"
+    keywords = "blog,developer,personal"
+    avatarurl = "images/avatar.png"
+
+    favicon_32 = "/images/favicon.png"
+    favicon_16 = "/images/favicon.png"
+
+    footercontent = "Testing Hugo"
+
+    hidecredits = false
+    hidecopyright = false
+
+    rtl = false
+
+    math = true
+    custom_css = ["css/custom.css"]
+
+# Social links
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github fa-2x"
+    weight = 1
+    url = "https://github.com/johndoe/"
+[[params.social]]
+    name = "Gitlab"
+    icon = "fab fa-gitlab fa-2x"
+    weight = 2
+    url = "https://gitlab.com/johndoe/"
+[[params.social]]
+    name = "Twitter"
+    icon = "fab fa-twitter fa-2x"
+    weight = 3
+    url = "https://twitter.com/johndoe/"
+
+# Menu links
+[[menu.main]]
+    name = "Blog"
+    weight = 1
+    url  = "/posts"
+[[menu.main]]
+    name = "About Me"
+    weight = 2
+    url = "about"
